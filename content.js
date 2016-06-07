@@ -12,7 +12,7 @@ for(var i = 0; i < elements.length; i++)
 		if (node.nodeType === 3) 
 		{	
 			var text = node.nodeValue;
-			var replacedText = text.replace(/streaming/, 'screaming');
+			var replacedText = text.replace(/streaming/g, 'screaming');
 			//replacedText = text.replace(/[online streaming]/gi, '[online screaming]');            
 
 			if (replacedText !== text)
