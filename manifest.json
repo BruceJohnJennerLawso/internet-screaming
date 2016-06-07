@@ -5,7 +5,7 @@
 	"manifest_version": 2,
     "name": "internet-screaming",
     "description": "find all instances of 'internet streaming' in a webpage and replace them with 'internet screaming'",
-    "version": "0.1",
+    "version": "0.0.1",
     "content_scripts": 
     [
         {
