@@ -1,2 +1,1 @@
-# internet-screaming
-plugin to change internet streaming in text to screaming
+This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
